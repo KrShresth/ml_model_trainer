@@ -71,3 +71,6 @@ pip install streamlit pandas numpy matplotlib seaborn scikit-learn
 
 ![image](https://github.com/user-attachments/assets/0a656a2a-e508-4f45-928e-48dae7441eb9)
 
+## live app: 
+https://mlmodeltrainer.streamlit.app/
+
